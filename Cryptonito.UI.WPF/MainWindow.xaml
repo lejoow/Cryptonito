@@ -1,0 +1,13 @@
+﻿<Window x:Class="Cryptonito.UI.WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="721.5" Width="1204">
+    <Grid>
+        <GroupBox Header="Market" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="162" Width="300">
+            <TextBox HorizontalAlignment="Left" Height="28" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="145" Margin="64,10,0,0"/>
+        </GroupBox>
+        <GroupBox Header="Market" HorizontalAlignment="Left" Margin="10,177,0,0" VerticalAlignment="Top" Height="162" Width="300"/>
+        <GroupBox Header="Market" HorizontalAlignment="Left" Margin="332,10,0,0" VerticalAlignment="Top" Height="162" Width="300"/>
+        <GroupBox Header="Market" HorizontalAlignment="Left" Margin="332,177,0,0" VerticalAlignment="Top" Height="162" Width="300"/>
+    </Grid>
+</Window>

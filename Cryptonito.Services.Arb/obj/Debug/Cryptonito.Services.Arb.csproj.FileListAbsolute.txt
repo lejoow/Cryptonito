@@ -1,0 +1,4 @@
+F:\DEV\Github\Cryptonito\Cryptonito.Services.Arb\bin\Debug\Cryptonito.Services.Arb.dll
+F:\DEV\Github\Cryptonito\Cryptonito.Services.Arb\bin\Debug\Cryptonito.Services.Arb.pdb
+F:\DEV\Github\Cryptonito\Cryptonito.Services.Arb\obj\Debug\Cryptonito.Services.Arb.dll
+F:\DEV\Github\Cryptonito\Cryptonito.Services.Arb\obj\Debug\Cryptonito.Services.Arb.pdb

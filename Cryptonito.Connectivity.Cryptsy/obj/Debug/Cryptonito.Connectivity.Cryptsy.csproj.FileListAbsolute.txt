@@ -1,0 +1,12 @@
+F:\DEV\Github\Cryptonito\Cryptonito.Connectivity.Cryptsy\bin\Debug\Cryptonito.Connectivity.Cryptsy.dll
+F:\DEV\Github\Cryptonito\Cryptonito.Connectivity.Cryptsy\bin\Debug\Cryptonito.Connectivity.Cryptsy.pdb
+F:\DEV\Github\Cryptonito\Cryptonito.Connectivity.Cryptsy\bin\Debug\Newtonsoft.Json.dll
+F:\DEV\Github\Cryptonito\Cryptonito.Connectivity.Cryptsy\bin\Debug\Newtonsoft.Json.xml
+F:\DEV\Github\Cryptonito\Cryptonito.Connectivity.Cryptsy\obj\Debug\Cryptonito.Connectivity.Cryptsy.dll
+F:\DEV\Github\Cryptonito\Cryptonito.Connectivity.Cryptsy\obj\Debug\Cryptonito.Connectivity.Cryptsy.pdb
+F:\DEV\Github\Cryptonito\Cryptonito.Connectivity.Cryptsy\bin\Debug\Cryptonito.Connectivity.Cryptsy.dll.config
+F:\DEV\Github\Cryptonito\Cryptonito.Connectivity.Cryptsy\bin\Debug\PusherClientDotNet.dll
+F:\DEV\Github\Cryptonito\Cryptonito.Connectivity.Cryptsy\bin\Debug\WebSocket4Net.dll
+F:\DEV\Github\Cryptonito\Cryptonito.Connectivity.Cryptsy\bin\Debug\PusherClient.dll
+F:\DEV\Github\Cryptonito\Cryptonito.Connectivity.Cryptsy\bin\Debug\PusherClient.xml
+F:\DEV\Github\Cryptonito\Cryptonito.Connectivity.Cryptsy\obj\Debug\Cryptonito.Connectivity.Cryptsy.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+F:\DEV\Github\Cryptonito\Cryptonito.UI.WPF\bin\Debug\Cryptonito.UI.WPF.exe.config
+F:\DEV\Github\Cryptonito\Cryptonito.UI.WPF\bin\Debug\Cryptonito.UI.WPF.exe
+F:\DEV\Github\Cryptonito\Cryptonito.UI.WPF\bin\Debug\Cryptonito.UI.WPF.pdb
+F:\DEV\Github\Cryptonito\Cryptonito.UI.WPF\obj\Debug\Cryptonito.UI.WPF.csprojResolveAssemblyReference.cache
+F:\DEV\Github\Cryptonito\Cryptonito.UI.WPF\obj\Debug\MainWindow.baml
+F:\DEV\Github\Cryptonito\Cryptonito.UI.WPF\obj\Debug\MainWindow.g.cs
+F:\DEV\Github\Cryptonito\Cryptonito.UI.WPF\obj\Debug\App.g.cs
+F:\DEV\Github\Cryptonito\Cryptonito.UI.WPF\obj\Debug\Cryptonito.UI.WPF_MarkupCompile.cache
+F:\DEV\Github\Cryptonito\Cryptonito.UI.WPF\obj\Debug\Cryptonito.UI.WPF.g.resources
+F:\DEV\Github\Cryptonito\Cryptonito.UI.WPF\obj\Debug\Cryptonito.UI.WPF.Properties.Resources.resources
+F:\DEV\Github\Cryptonito\Cryptonito.UI.WPF\obj\Debug\Cryptonito.UI.WPF.csproj.GenerateResource.Cache
+F:\DEV\Github\Cryptonito\Cryptonito.UI.WPF\obj\Debug\Cryptonito.UI.WPF.exe
+F:\DEV\Github\Cryptonito\Cryptonito.UI.WPF\obj\Debug\Cryptonito.UI.WPF.pdb
